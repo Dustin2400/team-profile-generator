@@ -1,4 +1,4 @@
-# team-profile-generator
+# Team Profile Generator
 
 ## Description
   This application creates an easy to use employee directory after a series of prompts. Employees' emails and GitHubs are all available in one place.
